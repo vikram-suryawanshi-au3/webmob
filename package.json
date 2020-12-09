@@ -1,0 +1,17 @@
+{
+  "name": "webmob",
+  "version": "1.0.0",
+  "description": "Practical Task for Jr. React Js Developer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vikram suryawanshi",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "proxy": "http://localhost:3000"
+}
